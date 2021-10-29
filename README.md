@@ -1,5 +1,5 @@
 # progetti_uni
-Questa repository è una raccolta di progetti in aggiornamento
+Questa repository è una raccolta di progetti
 
 1. **TSA_economica**: analisi di time series in r
 2. **TSA_finanziaria**: analisi di time series in r
